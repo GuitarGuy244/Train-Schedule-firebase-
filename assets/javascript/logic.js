@@ -2,10 +2,10 @@ $(document).ready(function(){
 
     // Start Firebase 
     var config = {
-        apiKey: "AIzaSyBBdpsF2i8zXecrDs5m5qf6x2d_SIBNe1I",
-        authDomain: "choochoo-f38f4.firebaseapp.com",
-        databaseURL: "https://choochoo-f38f4.firebaseio.com/",
-        storageBucket: "gs://choochoo-f38f4.appspot.com/",
+        apiKey: "AIzaSyBlOJ2j4G2_-yvOGwjOMTd5KlbRLfJ_yQ4",
+        authDomain: "train-schedule-c3e9d.appspot.com",
+        databaseURL: "https://train-schedule-c3e9d.firebaseio.com/",
+        storageBucket: "gs://train-schedule-c3e9d.appspot.com",
     };
 
     firebase.initializeApp(config);
